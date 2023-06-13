@@ -15,6 +15,12 @@ const styles = StyleSheet.create({
       fontWeight: '400',
     },
     bodyButton: {
+      justifyContent: 'center',
+    },
+    logoContainer: {
+      padding: 16,
+      backgroundColor: 'white',
+      flexDirection: 'row',
       position: 'relative',
       alignItems: 'center',
       justifyContent: 'center',
